@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Feresa Cabrera",
+    "label": "Ph.D., Plant Molecular Biology",
+    "picture": "https://github.com/feresa-science.png",
+    "email": "feresa@hawaii.edu",
+    "phone": "808-379-9039",
+    "website": "https://feresa-science.github.io",
+    "summary": "I'm a computational evolutionary biologist with more than 7 years of experience in molecular biological research. As I approach the completion of my PhD in Plant Molecular Biology in 2024, I am initiating my search for a Scientist position in the Biotech and Tech space.",
+    "location": { "address": "", "postalCode": "96848", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "feresa-science", "url": "https://github.com/feresa-science" },
+      { "network": "linkedin", "username": "feresa-corazon-cabrera", "url": "https://www.linkedin.com/in/feresa-corazon-cabrera-a37ab0170/" },
+      { "network": "twitter", "username": "feresacorazon", "url": "https://twitter.com/feresacorazon" },
+      { "network": "instagram", "username": "faeresa", "url": "http://instagram.com/faeresa" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Computational Biology" },
+    { "name": "Bioinformatics" },
+    { "name": "Genomics" },
+    { "name": "AI/ML" },
+    { "name": "Evolution" }
   ],
   "skills": [
     {
@@ -35,9 +35,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Plant Molecular Biology (expected May 2024)",
+      "studyType": "Ph.D",
+      "startDate": "2020-08-20",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,27 +45,37 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "University of Hawaiʻi at Mānoa School of Life Sciences",
+      "position": "Graduate Research Assistant",
+      "website": "https://sherwoodalgalbiodiversitylab.weebly.com/",
+      "startDate": "2018-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Lead and co-authored 12 publications describing over 20 species and 1 genus new to science as part of the NSF Biodiversity Survey of Hawaiian Mesophotic Algae, instrumental in securing $2.6M of funding for NSF PurSUiT: Discovery and characterization of mesophotic seaweeds in Hawaii: genomic adaptations to low light environments  scaling up our short-read (Illumina) and long-read (Oxford Nanopore) NGS projects to elucidate biodiversity and evolution of non-model organisms in Archaeplastida",
+        "Manage all aspects of Sherwood Algal Biodiversity Laboratory including supervising orders, managing priorities across multiple projects, maintaining and developing laboratory protocols, NGS bioinformatics pipelines, and providing mentorship to a diverse group of lab interns and graduate students"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Smithsonian Institution",
+      "position": "Pre-doctoral Research Fellow",
+      "website": "https://www.si.edu/",
+      "startDate": "2022-11-01",
+      "endDate": "2023-12-30",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Optimized NGS assay development from extraction to library preparation of 250 gorgonians as part of NSF: Novel target-enriched genomic approaches to assess the diversity of Gorgonian Octocorals on Indo-Pacific Mesophotic Coral Reefs",
+      ]
+    },
+     {
+      "company": "University of Hawaiʻi at Mānoa School of Life Sciences",
+      "position": "Graduate Teaching Assistant",
+      "website": "https://manoa.hawaii.edu/lifesciences/https://www.si.edu/",
+      "startDate": "2019-01-10",
+      "endDate": "2022-12-30",
+      "summary": "",
+      "highlights": [
+        "Instructed the laboratory sections of BOT 480: Algal Diversity and Evolution and developed teaching resources for botanical techniques e.g. making cross-section slides and herbarium presses, and integrated them into the course curriculum, benefitting 80 students per semester",
       ]
     }
   ],
