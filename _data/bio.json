@@ -24,12 +24,16 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Molecular Biology",
+      "keywords": [ "DNA and RNA isolation and purification", "NGS library preparation", "PCR and qPCR", "Primer design", "Western blot" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Analytical Biochemistry",
+      "keywords": [ "lipid extractions", "HPLC", "GC-MS", "isotopic analysis" ]
+    },
+    {
+      "name": "Bionformatics",
+      "keywords": [ "R", "Python", "Linux", "AWS", "HPC", "Common Lisp", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -39,7 +43,7 @@
       "studyType": "Ph.D",
       "startDate": "2020-08-20",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Dissertation: Illuminating the Diversity of Deep Reef Flora: Genomic Insights Uncover Novel Biodiversity and Genomic Novelties in the Evolution of Rhodophyta Associated with the Hawaiian Mesophotic Ecosystems"
       ]
     }
   ],
